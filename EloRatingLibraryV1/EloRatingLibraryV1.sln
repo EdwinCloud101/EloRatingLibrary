@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloRatingLibraryV1", "EloRatingLibraryV1\EloRatingLibraryV1.csproj", "{54E26AAE-CA4F-4438-9146-F61A62177BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloRatingTesterV1", "EloRatingTesterV1\EloRatingTesterV1.csproj", "{5A170DF5-0393-4CFE-9D5E-6B0BA5CC7AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E26AAE-CA4F-4438-9146-F61A62177BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E26AAE-CA4F-4438-9146-F61A62177BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E26AAE-CA4F-4438-9146-F61A62177BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E26AAE-CA4F-4438-9146-F61A62177BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A170DF5-0393-4CFE-9D5E-6B0BA5CC7AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A170DF5-0393-4CFE-9D5E-6B0BA5CC7AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A170DF5-0393-4CFE-9D5E-6B0BA5CC7AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A170DF5-0393-4CFE-9D5E-6B0BA5CC7AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81CB6F92-C6E4-4AB8-84A0-4B7C86883A45}
+	EndGlobalSection
+EndGlobal
